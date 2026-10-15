@@ -1,0 +1,15 @@
+# Raw system triage logs and memory dumps
+*.log
+*.txt
+*.zip
+Security-Triage-*/
+*article_00000183*
+\[https*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Antigravity artifacts
+.system_generated/
